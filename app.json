@@ -12,7 +12,7 @@
   "window":{
     "navigationBarBackgroundColor": "#000",
     "navigationBarTitleText" : "多点 - 网上好超市",
-    "navigationBarTextStyle":"#fff",
+    "navigationBarTextStyle":"white",
     "enablePullDownRefresh" : false
   }
 }
